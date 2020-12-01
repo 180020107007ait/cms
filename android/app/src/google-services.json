@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "433853535865",
+    "firebase_url": "https://demoproject-56ceb.firebaseio.com",
+    "project_id": "demoproject-56ceb",
+    "storage_bucket": "demoproject-56ceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433853535865:android:52d6e6980ba0ba234d26a8",
+        "android_client_info": {
+          "package_name": "com.example.register_login_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433853535865-1j4tddmu2iau9aij75e1eb75codgd1un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWBD-JuaigvSdpE1ZdDYeLL-wqdkFeHaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433853535865-1j4tddmu2iau9aij75e1eb75codgd1un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
